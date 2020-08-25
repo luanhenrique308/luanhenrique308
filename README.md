@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá amigos! 👋
+👨🏻‍💻 FullStack Developer 👨🏻‍💻  
 
-<!--
-**luanhenrique308/luanhenrique308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" height="200" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-Here are some ideas to get you started:
+- 🚀 Buscando novos desafios.       
+- 📘 Estudando: Node.js, JavaScript, Asp.Net.    
+- 💬 Sobre mim: Gosto de um bom Desafio,de pensar em ideias empreendedoras e amo aprender mais, tecnologias novas, conhecimento nunca é demais.   
+- 📫 luan.henrique308@hotmaail.com    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>

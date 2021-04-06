@@ -6,7 +6,8 @@
 - 🚀 Buscando novos desafios.       
 - 📘 Estudando: Node.js, JavaScript, Asp.Net.    
 - 💬 Sobre mim: Gosto de um bom Desafio,de pensar em ideias empreendedoras e amo aprender mais, tecnologias novas, conhecimento nunca é demais.   
-- 📫 luan.henrique308@hotmaail.com    
+- 📫 luan.henrique308@hotmail.com 
+- (81)98570-5013   
 
 <code><a href="https://www.javascript.com/" target="_blank"><img height="25" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>

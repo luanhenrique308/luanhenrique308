@@ -5,6 +5,7 @@
 - 📘 Estudando: Node.js, JavaScript, Asp.Net.    
 - 💬 Sobre mim: Gosto de um bom Desafio,de pensar em ideias empreendedoras e amo aprender mais, tecnologias novas, conhecimento nunca é demais.   
 - 📫 luan.henrique308@hotmail.com 
+- https://www.linkedin.com/in/luan-henrique-277298142/
 - (81)98570-5013
 
 <div align="left" height="200">

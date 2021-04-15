@@ -8,7 +8,7 @@
 - https://www.linkedin.com/in/luan-henrique-277298142/
 - (81)98570-5013
 
-<div align="left" height="200">
+<div align="left">
 
 [![LUAN PC's github stats](https://github-readme-stats.vercel.app/api?username=luanhenrique308&show_icons=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanhenrique308&layout=compact&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)

@@ -2,7 +2,7 @@
 👨🏻‍💻 FullStack Developer 👨🏻‍💻  
 
 - 🚀 Buscando novos desafios.       
-- 📘 Skills: JavaScript, Flask python, React.JS, React Native, Node Js    
+- 📘 Skills: JavaScript, Python (Flask), React.JS, React Native, Node Js    
 - 💬 Sobre mim: Gosto de um bom Desafio,de pensar em ideias empreendedoras e amo aprender mais, tecnologias novas, conhecimento nunca é demais.   
 - 📫 luan.henrique308@hotmail.com 
 - https://www.linkedin.com/in/luan-henrique-277298142/
